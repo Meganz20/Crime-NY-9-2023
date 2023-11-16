@@ -5,3 +5,4 @@
 5 - This data is only for September 2023 so it would be interesting to monitor hwo crimes change over time. This would also increase the size of the dataset so the conclusions would be more concrete.
 6 - It would be nice if the dataset had better time accuracy or a seperate time attatched to do with the outcome of the crime as I hope in the months after the crime the number of crimes under investigation goes down.
 7 - It may be slightly controversial but comparing this to the number of people on benefits would be interesting.
+8 - I did not include the extra outcomes dataset as they couldnt be combined easily and the original table had an outcomes column but this could be a future idea.
